@@ -1,0 +1,2 @@
+rootProject.name='DesignPattern_Kotlin'
+include ':app'
